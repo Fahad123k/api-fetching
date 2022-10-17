@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-fetching/static/css/main.fbda546d.css",
+    "main.js": "/api-fetching/static/js/main.6fefc244.js",
+    "index.html": "/api-fetching/index.html",
+    "main.fbda546d.css.map": "/api-fetching/static/css/main.fbda546d.css.map",
+    "main.6fefc244.js.map": "/api-fetching/static/js/main.6fefc244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbda546d.css",
+    "static/js/main.6fefc244.js"
+  ]
+}
